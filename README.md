@@ -1,10 +1,10 @@
-# master-platform
+# orbit
 
 Flagship repository for the full intelligent cloud SaaS ecosystem.
 
 ## Mission
 
-`master-platform` is the center of gravity for the ecosystem: product, backend, AI, data, infrastructure, security, observability, and developer tooling all connect here.
+`orbit` is the center of gravity for the ecosystem: product, backend, AI, data, infrastructure, security, observability, and developer tooling all connect here.
 
 ## Why this repo exists
 
@@ -14,7 +14,7 @@ The surrounding repos each focus on one slice. This repo is where they converge 
 
 - Flagship downstream consumer of nearly every repo
 - Architecture anchor for `saas-platform`
-- Connected to `ai-platform`, `data-platform`, `infrastructure-platform`, `security-platform`, and `observability-stack`
+- Connected to `synapse`, `flux`, `nimbus`, `aegis`, and `beacon`
 
 ## Current status
 
@@ -29,7 +29,7 @@ Level 3 flagship starter with architecture docs and a small executable TypeScrip
 ## Structure
 
 ```text
-master-platform/
+orbit/
 ├── docs/
 │   ├── architecture.md
 │   └── ecosystem-map.md
@@ -54,9 +54,9 @@ node dist/index.js
 
 ## Related repositories
 
-- upstream: `ai-platform`, `data-platform`, `infrastructure-platform`, `security-platform`, `observability-stack`
+- upstream: `synapse`, `flux`, `nimbus`, `aegis`, `beacon`
 - neighboring: `saas-platform`, `project-universe`
-- tooling: `service-template`, `internal-developer-platform`
+- tooling: `forge`, `relay`
 
 ## Future direction
 

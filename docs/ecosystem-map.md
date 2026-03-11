@@ -1,8 +1,8 @@
 # Ecosystem Map
 
-- `ai-platform`: AI runtime
-- `data-platform`: data contracts and pipelines
-- `infrastructure-platform`: runtime substrate
-- `security-platform`: security guardrails
-- `observability-stack`: telemetry
+- `synapse`: AI runtime
+- `flux`: data contracts and pipelines
+- `nimbus`: runtime substrate
+- `aegis`: security guardrails
+- `beacon`: telemetry
 - `saas-platform`: product domain specialization

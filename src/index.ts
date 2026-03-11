@@ -1,6 +1,6 @@
 import { platformCapabilities } from "./platform.js";
 
 console.log({
-  repo: "master-platform",
+  repo: "orbit",
   capabilities: platformCapabilities(),
 });

@@ -5,8 +5,8 @@ export type PlatformCapability = {
 
 export function platformCapabilities(): PlatformCapability[] {
   return [
-    { name: "ai-assistant", sourceRepo: "ai-platform" },
-    { name: "analytics-pipelines", sourceRepo: "data-platform" },
-    { name: "runtime-infrastructure", sourceRepo: "infrastructure-platform" },
+    { name: "ai-assistant", sourceRepo: "synapse" },
+    { name: "analytics-pipelines", sourceRepo: "flux" },
+    { name: "runtime-infrastructure", sourceRepo: "nimbus" },
   ];
 }

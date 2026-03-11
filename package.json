@@ -1,5 +1,5 @@
 {
-  "name": "master-platform",
+  "name": "orbit",
   "private": true,
   "type": "module",
   "scripts": {
