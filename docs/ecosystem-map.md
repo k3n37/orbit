@@ -5,4 +5,4 @@
 - `nimbus`: runtime substrate
 - `aegis`: security guardrails
 - `beacon`: telemetry
-- `saas-platform`: product domain specialization
+- `summit`: product domain specialization

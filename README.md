@@ -13,7 +13,7 @@ The surrounding repos each focus on one slice. This repo is where they converge 
 ## Role in the ecosystem
 
 - Flagship downstream consumer of nearly every repo
-- Architecture anchor for `saas-platform`
+- Architecture anchor for `summit`
 - Connected to `synapse`, `flux`, `nimbus`, `aegis`, and `beacon`
 
 ## Current status
@@ -55,7 +55,7 @@ node dist/index.js
 ## Related repositories
 
 - upstream: `synapse`, `flux`, `nimbus`, `aegis`, `beacon`
-- neighboring: `saas-platform`, `project-universe`
+- neighboring: `summit`, `cosmos`
 - tooling: `forge`, `relay`
 
 ## Future direction
